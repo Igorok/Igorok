@@ -11,7 +11,7 @@ wide range of projects, including e-commerce platforms, vehicle rental systems, 
 responsibilities included full-stack development, collaborating with business stakeholders, and mentoring junior
 developers. I’m well-versed in building microservices architectures using Node.js, SQL/NoSQL databases, message
 brokers, and integrating with external APIs. I’m continually expanding my knowledge in system design and
-modern technologies. I also enjoy practicing my skills on LeetCode and sharing insights on my blog.
+modern technologies. I also enjoy practicing my skills on [LeetCode](https://leetcode.com/u/idubininmail/) and sharing insights on my [blog](https://dev.to/igorok).
 
 **Skills**
 
