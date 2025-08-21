@@ -1,8 +1,9 @@
-#### <center>Igor Dubinin</center>
+#### Igor Dubinin
 
-## <center>Software Engineer</center>
+## Software Engineer
 
-[idubininmail@gmail.com](mailto:idubininmail@gmail.com) | [Linkedin](https://www.linkedin.com/in/igor-dubinin-569701a2/) | [Github](https://github.com/Igorok) | [CV](https://drive.google.com/file/d/1jrPe3-pQC8s41SFkpnN-FWaszIWoFe45/view)
+[idubininmail@gmail.com](mailto:idubininmail@gmail.com) | [Linkedin](https://www.linkedin.com/in/igor-dubinin-569701a2/) | [Github](https://github.com/Igorok) | [CV](https://drive.google.com/file/d/1AXqF4EKCvDFxkIC_LCXRXZcKxmyakUWJ/view?usp=sharing)
+
 
 **About**
 
